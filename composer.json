@@ -1,5 +1,5 @@
 {
-    "name": "fleetbase/core-api",
+    "name": "lipagas/core-api",
     "version": "1.4.25",
     "description": "Core Framework and Resources for Fleetbase API",
     "keywords": [
@@ -63,7 +63,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/fleetbase/laravel-model-caching"
+            "url": "https://github.com/lipagaslaravel-model-caching"
         }
     ],
     "autoload": {
